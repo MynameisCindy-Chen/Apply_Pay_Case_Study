@@ -9,3 +9,4 @@ Apple pay is owned by company Apple, which is founded by Steve Jobs, Steve Wozni
 Apply is consistently seeking new opportunity and using their creation and technique to produce multiple high-tech products that we have never seen before, which can be defined as creator. This is the startup point for the concept of Apple pay comes out in our modern society starting from 20th century. In order to achieve this idea, this is a long preparation period.
 
 ## Business Activities:
+Since this was a new domian and cognition for them, **Apple acquired startups, hired executives and filed patents related to payments.** Also, they corporated with VISA, Mastecard and American Express to work on this project together and see how to make it work through electronic devices.
