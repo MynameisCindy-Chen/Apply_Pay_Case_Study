@@ -29,3 +29,34 @@ Technology innovation make a great impact on financial services and products, an
 According to statistic data from CFTE Fintech Unicorns, Visa, Mastercard and PayPal are the top 3 largest payment companies in 2022. They are all specific for payment and billing only. Their developmemt and growth are highly related to our daily lives, combining technology together to provide financial service in a more efficient and secure way that to satisfy consumer need. 
 
 ## Results
+
+At the beginning of Apple pay release, not lots of people know that iphone 6 has this function. According to PYMNTS.com, "More than 95 percent of iPhone 6 and 6+ users who could have paid with Apple Pay on Black Friday didn’t." Also, some customers have security concern if phone lost private information leakage including bank card saved in the phone. However, since more merchants are willing to accept it, more and more iphone users started using this function as the truth is promoting checkouts faster and reducing the sequences of lineup making payment, which is time-saving. Especially the fear of Covid-19 by using touchless payment method which is one of helpful behaviour to prevent from getting covid. Apple users found that apple pay has more security when they started using it for a while. Generally, the existence of apple pay not only bring the convenience of consumers, but also it is a conpetitive edge for the merchants who do bussiness to make transactions. 
+
+**Citation** " [https://www.pymnts.com/in-depth/2015/apple-pays-impact-on-payments/]
+
+There are 6 core metrics to measure success in payment industry:
+
+- Numbers of users
+- Active users
+- Retention
+- Cohort analysis
+- Lifetime value
+
+According to the chart of US Proximity mobile payment users by Platform in 2021 (listed in business activity section), Apple owns the most numbers of US users compared with competitors. Nowadays, "Apple Pay dominates the US mobile payment market with a 43.9% share", which is closed to 50% almost the half of US population. The most interesting data is "As of 2020, 5,480 banks worldwide supported Apple Pay. This represents a growth of 29% compared to the year before and 41% compared to 2018". From those statistics data, Apple pay usage is in well performance and experiencing a surge which is affecting US and Europe in high demand.  They have great advantage compared with competitors.  
+
+**Citation1** [https://fortunly.com/statistics/apple-pay-statistics/#gref]
+
+**Citation2** [https://fortunly.com/statistics/apple-pay-statistics/#gref]
+
+
+As I mentioned above, Apple own the technology of near-field communications, they allow google to use NPC. Whereas,  "Apple for the most part blocks other companies and developers from using its NFC application programming interface (API) for their own products, including mobile-wallet apps." That is the main factor that Apple pay almost dominate contactless payment market. There is an exception happened in China. China has entirely different technology by using optical QR codes, which is Wechat Pay and Alipay pay. These 2 leading company dominate chinese mobile payment market. 
+
+**Citation** [https://qz.com/1726203/apple-is-suffocating-mobile-payment-rivals/]
+
+## Recommendations
+
+Although Apple is always in a great performance on contactless payment, I want to make a recommendations to apple from the experience by using Wechat. Wechat also has Wechat wallet just like Apple wallet, we all know the funcation is wechat pay. However, Wechat wallet can also deposit money via peer-to-peer(P2P) money transfer, it can be defined as the combination of Paypal and wechat pay. Moreover, I also can use wechat to make billing payment such as phone bill, utility bill and credit card, more surprisedly, I can do some personal investments as well, such as mutual fund and insurances. In general, wechat is a extremely powerful app to include alomost everything we need in our lives. From my suggestion, Apple can improve the function of Apple wallet allows users to deposit money in apple wallet, it can a seperate sector beside bank card section. Then we can use those money to pay all bills instead of entering bank card information manually through online payment method. If Apple own this technology, it will attract more people to buy iphone which can increase their revenue and sales. Certainly, stock price will go up as well which can bring increditable value to the company. 
+
+
+
+
