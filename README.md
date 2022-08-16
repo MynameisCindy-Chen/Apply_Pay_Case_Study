@@ -15,6 +15,7 @@ According to eMarkter report, Apple has 43.9 million US users in 2021, which is 
 
 ![image](https://user-images.githubusercontent.com/110322673/184510044-316d1031-09f6-4230-b7a5-4982868bc78e.png)
 
+##### Perez, S. (2021, April 5). Fueled by pandemic, contactless mobile payments to surpass half of all smartphone users in US by 2025 – TechCrunch. TechCrunch; techcrunch.com. https://techcrunch.com/2021/04/05/fueled-by-pandemic-contactless-mobile-payments-to-surpass-half-of-all-smartphone-users-in-u-s-by-2025/
 
 **Citation 1" [https://www.theverge.com/2014/9/9/6084211/apple-pay-iphone-6-nfc-mobile-payment]**
 
@@ -55,8 +56,19 @@ As I mentioned above, Apple own the technology of near-field communications, the
 
 ## Recommendations
 
-Although Apple is always in a great performance on contactless payment, I want to make a recommendations to apple from the experience by using Wechat. Wechat also has Wechat wallet just like Apple wallet, we all know the funcation is wechat pay. However, Wechat wallet can also deposit money via peer-to-peer(P2P) money transfer, it can be defined as the combination of Paypal and wechat pay. Moreover, I also can use wechat to make billing payment such as phone bill, utility bill and credit card, more surprisedly, I can do some personal investments as well, such as mutual fund and insurances. In general, wechat is a extremely powerful app to include alomost everything we need in our lives. From my suggestion, Apple can improve the function of Apple wallet allows users to deposit money in apple wallet, it can a seperate sector beside bank card section. Then we can use those money to pay all bills instead of entering bank card information manually through online payment method. If Apple own this technology, it will attract more people to buy iphone which can increase their revenue and sales. Certainly, stock price will go up as well which can bring increditable value to the company. 
+Although Apple is always in a great performance on contactless payment, I want to make a recommendations to apple from the experience by using Wechat. Wechat also has Wechat wallet just like Apple wallet, we all know the funcation is wechat pay. However, Wechat wallet can also deposit money via peer-to-peer(P2P) money transfer, it can be defined as the combination of Paypal and wechat pay. Moreover, I also can use wechat to make billing payment such as phone bill, utility bill and credit card, more surprisedly, I can do some personal investments as well, such as mutual fund and insurances. In general, wechat is a extremely powerful app to include alomost everything we need in our lives. From my suggestion, Apple can improve the function of Apple wallet allows users to deposit money in apple wallet, it can be a seperate sector beside bank card section. Then we can use those money to pay all bills instead of entering bank card information manually through online payment method. If Apple own this technology, it will attract more people to buy iphone which can increase their revenue and sales. Certainly, stock price will go up as well which can bring increditable value to the company. 
+
+For money deposit service added to Apple wallet,  the techonology Customer Relationship Mannage(CRM) software can be utilised,  this software can orgnize users basic contact information and find all needed information in one place which is more effective for data management if users deposit money to that account. All-in-one platform can be used on paying bills and personal financial investment by clicking that icon and follow the direction for each step. Definitely, this service only can be implemented under the condition of relavent companys are willing to join and cooperate with Apple. 
 
 
+## References
 
+Apple Inc. - Wikipedia. (1976, April 1). Apple Inc. - Wikipedia; en.wikipedia.org. https://en.wikipedia.org/wiki/Apple_Inc.
 
+Perez, S. (2021, April 5). Fueled by pandemic, contactless mobile payments to surpass half of all smartphone users in US by 2025 – TechCrunch. TechCrunch; techcrunch.com. https://techcrunch.com/2021/04/05/fueled-by-pandemic-contactless-mobile-payments-to-surpass-half-of-all-smartphone-users-in-u-s-by-2025/
+
+Jeffries, A. (2014, September 9). Apple Pay allows you to pay at the counter with your iPhone 6 - The Verge. The Verge; www.theverge.com. https://www.theverge.com/2014/9/9/6084211/apple-pay-iphone-6-nfc-mobile-payment
+
+Jeffries, A. (2014, September 9). Apple Pay allows you to pay at the counter with your iPhone 6 - The Verge. The Verge; www.theverge.com. https://www.theverge.com/2014/9/9/6084211/apple-pay-iphone-6-nfc-mobile-payment
+
+Detrixhe, J. (2019, October 13). Apple is suffocating mobile-payment rivals — Quartz. Quartz; qz.com. https://qz.com/1726203/apple-is-suffocating-mobile-payment-rivals/
